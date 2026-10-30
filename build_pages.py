@@ -22,7 +22,7 @@ SHOPS_DATA = [
         "desc": "전문 힐러진의 체형 맞춤 피로회복 특화 프로그램 및 천연 에센셜 오일 관리",
         "price": "80,000원부터~",
         "score": "4.9",
-        "img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&h=300&q=80"
+        "img": "/images/shop1.jpg"
     },
     {
         "name": "한국미인테라피",
@@ -30,7 +30,7 @@ SHOPS_DATA = [
         "desc": "지친 일상에 맞춤형 피로회복 케어! 베테랑 한국인 테라피스트의 프라이빗 릴렉싱",
         "price": "70,000원부터~",
         "score": "4.9",
-        "img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&h=300&q=80"
+        "img": "/images/shop2.jpg"
     },
     {
         "name": "오늘밤테라피",
@@ -38,7 +38,7 @@ SHOPS_DATA = [
         "desc": "선입금 없는 100% 안심 후불제! 타이, 전신아로마 및 VIP 감성힐링 전문",
         "price": "60,000원부터~",
         "score": "4.9",
-        "img": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&h=300&q=80"
+        "img": "/images/shop3.jpg"
     },
     {
         "name": "주주테라피",
@@ -46,7 +46,7 @@ SHOPS_DATA = [
         "desc": "재방문율 높은 안심 케어! 철저한 위생 관리와 최고급 럭셔리 스웨디시 프로그램",
         "price": "60,000원부터~",
         "score": "4.8",
-        "img": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&h=300&q=80"
+        "img": "/images/shop4.jpg"
     },
     {
         "name": "기쁨테라피",
@@ -54,7 +54,7 @@ SHOPS_DATA = [
         "desc": "몸과 마음에 활력을 채워주는 세심하고 품격 있는 전신 힐링 테라피",
         "price": "60,000원부터~",
         "score": "4.9",
-        "img": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=400&h=300&q=80"
+        "img": "/images/shop5.jpg"
     },
     {
         "name": "미인클럽테라피",
@@ -62,7 +62,7 @@ SHOPS_DATA = [
         "desc": "젊고 세련된 감각의 테라피스트들이 제공하는 스페셜 감성 아로마 테라피",
         "price": "70,000원부터~",
         "score": "4.9",
-        "img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&h=300&q=80"
+        "img": "/images/shop6.jpg"
     }
 ]
 
